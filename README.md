@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Create a new repository on your Github account
+# Coursera Capstone
+Leslie's github for coursera
